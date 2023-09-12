@@ -1,0 +1,2 @@
+# RedKonG
+first GIT
